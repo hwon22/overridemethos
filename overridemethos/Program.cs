@@ -43,8 +43,11 @@ namespace overridemethos
         static void Main(string[] args)
         {
             Console.WriteLine(Power(9));
+
             Console.WriteLine(Power(3, 4));
+
             Console.WriteLine(SumAll(5));
+
             Console.WriteLine(SumAll(5,10));
         }
     }
